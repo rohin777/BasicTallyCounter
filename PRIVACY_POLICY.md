@@ -1,7 +1,7 @@
-Best Tally Counter: Privacy policy
-Welcome to the Best Tally Counter app for Android!
+Basic Tally Counter: Privacy policy
+Welcome to the Basic Tally Counter app for Android!
 
-This app developed by Rohin Kumar. The app is available on Google Play.
+This app developed by P&R Technology. The app is available on Google Play.
 
 As an avid Android user myself, I take privacy very seriously. I know how irritating it is when apps collect your data without your knowledge.
 
